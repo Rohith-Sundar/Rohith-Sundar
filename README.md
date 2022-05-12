@@ -1,4 +1,4 @@
-### Hi there!! This is Rohith Sundharamurthy! How are you? 👋
+### Hi there!! This is Rohith Sundharamurthy! 
 
 <!--
 **Rohith-Sundar/Rohith-Sundar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
